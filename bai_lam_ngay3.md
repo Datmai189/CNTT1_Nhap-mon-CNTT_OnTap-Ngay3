@@ -1,13 +1,13 @@
 # BÀI LÀM – ÔN TẬP NGÀY 3
 
-- **Họ tên:**
-- **Lớp:**
-- **Link repository:**
-- **Hệ điều hành (Windows/macOS):**
+- **Họ tên:** Mai Quốc Đạt
+- **Lớp** CNTT1
+- **Link repository:** https://github.com/Datmai189/CNTT1_Nhap-mon-CNTT_OnTap-Ngay3
+- **Hệ điều hành (Windows/macOS):** macOS
 
 ## Bài 1. README.md
 
-> README.md được chấm trực tiếp trên file `README.md` ở thư mục gốc. Đánh dấu `[x]` vào các mục đã làm để tự kiểm tra.
+> README.md được chấm trực tiếp trên file `README.md` ở thư mục gốc. Đánh dấu `[x]` vào các mục đã làm để tự kiểmOSra.
 
 - [ ] Heading 1: tên dự án
 - [ ] Ít nhất 2 heading cấp 2
